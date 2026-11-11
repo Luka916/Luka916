@@ -2,7 +2,7 @@
 
 **AI agent builder · hardware robotics tinkerer · pixel eyes**
 
-I build AI agents that do real work, wire up hardware robots that blink back, and ship the web tools that fall out of it — mostly single-file apps that solve a problem I hit myself.
+Agents that do real work. Robots that blink back. Single-file web tools that solve a problem I hit myself.
 
 No accounts. No uploads. No telemetry. One HTML file, works offline, does the job.
 
