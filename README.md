@@ -1,8 +1,8 @@
 # Yan Jiale
 
-**Independent developer · Nanning, China**
+**AI agent builder · hardware robotics tinkerer · pixel eyes**
 
-I build small software tools — mostly single-file web apps that fix a problem I ran into myself.
+I build AI agents that do real work, wire up hardware robots that blink back, and ship the web tools that fall out of it — mostly single-file apps that solve a problem I hit myself.
 
 No accounts. No uploads. No telemetry. One HTML file, works offline, does the job.
 
